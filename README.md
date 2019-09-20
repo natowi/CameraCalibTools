@@ -69,7 +69,8 @@ https://github.com/smidm/video2calibration
 This android app allow for calibration of a mobile camera
 https://github.com/rpng/android-camera-calibration
 
-# Calibration Pattern
+-------------------------------------------------------------------------------
+# Calibration Patterns
 
 # Generator
 
