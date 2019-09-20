@@ -1,5 +1,5 @@
 # CameraCalibTools
-List of Camera Calibrtion Tools and patterns
+List of Camera Calibration Tools and patterns
 
 https://www.researchgate.net/post/Which_pattern_circle_pattern_or_checkerboard_pattern_should_be_used_for_automotive_camera_calibration_fisheye_wide_webcam
 
