@@ -52,6 +52,23 @@ https://sourceforge.net/projects/jcamcalib/
 # Projector-Camera Calibration / 3D Scanning Software
 http://mesh.brown.edu/calibration/software.html
 
+# tsai-calibration
+
+An implementation of Tsai's camera calibration technique.
+
+https://github.com/bailus/tsai-calibration
+
+# video2calibration
+
+Camera intrinsic parameters calibration from chessboard video sequence.
+
+https://github.com/smidm/video2calibration
+
+# Android Camera Calibration
+
+This android app allow for calibration of a mobile camera
+https://github.com/rpng/android-camera-calibration
+
 # Calibration Pattern
 
 # Generator
