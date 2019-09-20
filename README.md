@@ -27,6 +27,16 @@ camera calibration tool with gui
 
 https://github.com/Kolkir/calib
 
+# GML camera calibration toolbox
+GML C++ Camera Calibration Toolbox. GML Camera Calibration toolbox is a free functionally completed tool for cameras’ calibrating. 
+https://library.vuforia.com/content/dam/vuforia-library/docs/camera/GML_CameraCalibrationInstall_0.75.exe.zip
+
+Tutorial https://library.vuforia.com/content/vuforia-library/en/articles/Solution/external-camera-calibration.html
+
+http://graphics.cs.msu.ru/en/node/909
+https://web.archive.org/web/20190103151950/http://graphics.cs.msu.ru/en/node/909
+http://graphics.cs.msu.ru/sites/default/files/download/CalibrationToolbox_Code_071.7z
+
 # Camera Calibration Tools
 
 The application is largely inspired by the Matlab Camera Calibration Toolbox http://www.vision.caltech.edu/bouguetj/calib_doc/ and it provides similar functionality in a stand alone application. Additional features include support for video devices and files. New functionalies such as automatic calibration object detection, hand-eye calibration, camera network calibration and self-calibration are in development for future releases. 
