@@ -1,5 +1,5 @@
 # CameraCalibTools
-List of Camera Calibrtion Tools
+List of Camera Calibrtion Tools and patterns
 
 https://www.researchgate.net/post/Which_pattern_circle_pattern_or_checkerboard_pattern_should_be_used_for_automotive_camera_calibration_fisheye_wide_webcam
 
@@ -97,7 +97,7 @@ https://www.ensenso.com/manual/howto_calibrationpatterns.htm
 
 https://eleif.net/checker.html
 
-# Camera-Calibration-Pattern-
+# Camera-Calibration-Pattern
 Checkerboard generator for camera calibration and saving to pdf.
 https://github.com/ProximaB/Camera-Calibration-Pattern-Generator
 
@@ -110,5 +110,5 @@ https://github.com/artoolkit/artoolkit5/blob/master/doc/patterns/Calibration%20c
 # chessboard-pattern
 https://sourceforge.net/projects/jcamcalib/files/jcamcalib/0.7/chessboard-pattern.pdf/download
 
-# multiple
+# more
 https://github.com/artoolkit/artoolkit5/tree/master/doc/patterns
