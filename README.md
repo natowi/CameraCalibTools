@@ -69,6 +69,32 @@ https://github.com/smidm/video2calibration
 This android app allow for calibration of a mobile camera
 https://github.com/rpng/android-camera-calibration
 
+# CameraCal (Win, Linux, Android)
+
+Simple application to calculate the intrinsic and extrinsic parameters with pinhole camera model. These parameters can be used by OpenCV or other frameworks to compensate for lens distortions for scientific purposes.
+
+Android https://play.google.com/store/apps/details?id=fi.tampere.aiboplus.cameracalibapp
+Windows version: https://sourceforge.net/projects/aiboplus/files/Windows/
+Linux version: https://launchpad.net/~csaba-kertesz/+archive/ubuntu/aiboplus
+
+# VIZARIO.Cam (Android, *offline> $)
+https://play.google.com/store/apps/details?id=io.ar4.vizarcam
+
+# BoofCV Computer Vision (Android, Java)
+
+Camera Calibration (chessboard, circles, squares)
+https://play.google.com/store/apps/details?id=org.boofcv.android
+
+For instructions and a more detailed explanation:
+http://peterabeles.com/blog/?p=204
+
+Full source code:
+https://github.com/lessthanoptimal/BoofAndroidDemo
+
+http://boofcv.org/index.php?title=Tutorial_Camera_Calibration
+
+https://github.com/lessthanoptimal/BoofCV
+
 -------------------------------------------------------------------------------
 # Calibration Patterns
 
