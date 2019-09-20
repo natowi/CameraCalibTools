@@ -35,6 +35,10 @@ http://www0.cs.ucl.ac.uk/staff/Dan.Stoyanov/calib/main.html
 
 http://www0.cs.ucl.ac.uk/staff/Dan.Stoyanov/calib/download.html
 
+# Automatic videocamera calibration from video stream (v.0.1.1)
+
+https://photogrammetric-vision.weebly.com/software.html
+
 #  OCamCalib: Omnidirectional Camera Calibration Toolbox for Matlab 
 
 The OcamCalib Toolbox for Matlab allows the user (also inexpert users) to calibrate any central omnidirectional camera, that is, any panoramic camera having a single effective viewpoint
