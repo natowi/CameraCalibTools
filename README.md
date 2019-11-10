@@ -56,6 +56,8 @@ The OcamCalib Toolbox for Matlab allows the user (also inexpert users) to calibr
 https://sites.google.com/site/scarabotix/ocamcalib-toolbox
 http://rpg.ifi.uzh.ch/docs/omnidirectional_camera.pdf
 
+https://github.com/urbste/ImprovedOcamCalib
+
 # jcamcalib (java)
 https://sourceforge.net/projects/jcamcalib/
 
