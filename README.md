@@ -46,9 +46,6 @@ http://www0.cs.ucl.ac.uk/staff/Dan.Stoyanov/calib/main.html
 
 http://www0.cs.ucl.ac.uk/staff/Dan.Stoyanov/calib/download.html
 
-# Automatic videocamera calibration from video stream (v.0.1.1)
-
-https://photogrammetric-vision.weebly.com/software.html
 
 #  OCamCalib: Omnidirectional Camera Calibration Toolbox for Matlab 
 
@@ -158,7 +155,8 @@ https://github.com/artoolkit/artoolkit5/tree/master/doc/patterns
 
 
 ----
-# No longer available on the web 
+
+# No longer available on the web / available publicly
 
 # Calib [Win]
 
@@ -168,3 +166,7 @@ http://blogs.auth.gr/tsioukas/category/3d-recording-of-small-objects-monuments-s
 Snapshot: https://web.archive.org/web/20190920090208/http://blogs.auth.gr/tsioukas/category/3d-recording-of-small-objects-monuments-sites/vecad-photogrammetry/
 
 https://drive.google.com/uc?id=0B-16pvtHgnIpYkRBMjQxR2JZWlk&export=download
+
+# Automatic videocamera calibration from video stream (v.0.1.1)
+
+https://photogrammetric-vision.weebly.com/software.html Download needs to be requested
