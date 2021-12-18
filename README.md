@@ -90,8 +90,6 @@ Android https://play.google.com/store/apps/details?id=fi.tampere.aiboplus.camera
 Windows version: https://sourceforge.net/projects/aiboplus/files/Windows/
 Linux version: https://launchpad.net/~csaba-kertesz/+archive/ubuntu/aiboplus
 
-# VIZARIO.Cam (Android, *offline> $)
-https://play.google.com/store/apps/details?id=io.ar4.vizarcam
 
 # BoofCV Computer Vision (Android, Java)
 
