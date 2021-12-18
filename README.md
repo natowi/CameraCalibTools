@@ -5,13 +5,7 @@ https://www.researchgate.net/post/Which_pattern_circle_pattern_or_checkerboard_p
 
 Calibration Best Practices: https://calib.io/blogs/knowledge-base/calibration-best-practices
 
-# Calib [Win]
 
-The software is using a printed page calibration sheet and the user has to select the surrounding region of a rectangular area of circle reference points” grid to perform the calibration.
-
-http://blogs.auth.gr/tsioukas/category/3d-recording-of-small-objects-monuments-sites/vecad-photogrammetry/
-
-https://drive.google.com/uc?id=0B-16pvtHgnIpYkRBMjQxR2JZWlk&export=download
 
 # Camera Calibration 2.0 part of the MRPT project [Win64]
 
@@ -152,3 +146,16 @@ https://sourceforge.net/projects/jcamcalib/files/jcamcalib/0.7/chessboard-patter
 
 # more
 https://github.com/artoolkit/artoolkit5/tree/master/doc/patterns
+
+
+
+----
+# Now longer available on the web 
+
+# Calib [Win]
+
+The software is using a printed page calibration sheet and the user has to select the surrounding region of a rectangular area of circle reference points” grid to perform the calibration.
+
+http://blogs.auth.gr/tsioukas/category/3d-recording-of-small-objects-monuments-sites/vecad-photogrammetry/
+
+https://drive.google.com/uc?id=0B-16pvtHgnIpYkRBMjQxR2JZWlk&export=download
