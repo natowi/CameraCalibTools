@@ -15,6 +15,9 @@ https://www.mrpt.org/list-of-mrpt-apps/application_camera-calib/
 
 https://github.com/MRPT/mrpt
 
+![Camera Calibration 2.0](./images/mrpt-calib.JPG)
+
+
 
 
 Release of MRPT 1.5.7 https://github.com/MRPT/mrpt/releases
@@ -112,6 +115,9 @@ https://github.com/lessthanoptimal/BoofCV
 
 ChArUco, Checkerboard, Circles, Asymetric Circles
 https://calib.io/pages/camera-calibration-pattern-generator
+
+![Camera Calibration 2.0](./images/calib.io.JPG)
+
 
 # Checker board 9x7
 https://www.mrpt.org/downloads/camera-calibration-checker-board_9x7.pdf
