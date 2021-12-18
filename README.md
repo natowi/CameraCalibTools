@@ -158,12 +158,13 @@ https://github.com/artoolkit/artoolkit5/tree/master/doc/patterns
 
 
 ----
-# Now longer available on the web 
+# No longer available on the web 
 
 # Calib [Win]
 
 The software is using a printed page calibration sheet and the user has to select the surrounding region of a rectangular area of circle reference points” grid to perform the calibration.
 
 http://blogs.auth.gr/tsioukas/category/3d-recording-of-small-objects-monuments-sites/vecad-photogrammetry/
+Snapshot: https://web.archive.org/web/20190920090208/http://blogs.auth.gr/tsioukas/category/3d-recording-of-small-objects-monuments-sites/vecad-photogrammetry/
 
 https://drive.google.com/uc?id=0B-16pvtHgnIpYkRBMjQxR2JZWlk&export=download
