@@ -46,12 +46,15 @@ http://www0.cs.ucl.ac.uk/staff/Dan.Stoyanov/calib/main.html
 
 http://www0.cs.ucl.ac.uk/staff/Dan.Stoyanov/calib/download.html
 
+# e2calib
+This repository contains code that implements video reconstruction from event data for calibration
+https://github.com/uzh-rpg/e2calib
 
 #  OCamCalib: Omnidirectional Camera Calibration Toolbox for Matlab 
 
 The OcamCalib Toolbox for Matlab allows the user (also inexpert users) to calibrate any central omnidirectional camera, that is, any panoramic camera having a single effective viewpoint
 
-https://sites.google.com/site/scarabotix/ocamcalib-toolbox
+https://sites.google.com/site/scarabotix/ocamcalib-toolbox [dead link]
 http://rpg.ifi.uzh.ch/docs/omnidirectional_camera.pdf
 
 https://github.com/urbste/ImprovedOcamCalib
