@@ -7,13 +7,15 @@ Calibration Best Practices: https://calib.io/blogs/knowledge-base/calibration-be
 
 
 
-# Camera Calibration 2.0 part of the MRPT project [Win64]
+# Camera Calibration 2.0 - part of the MRPT project [Win64]
 
 This GUI program allows users to find out the camera parameters of a camera by capturing several images of a checkerboard. The program allows online grabbing or images as well as selection of pre-recorded image files. It also shows the reprojected points, undistorted images and a 3D view of the reconstructed camera poses.
 
 https://www.mrpt.org/list-of-mrpt-apps/application_camera-calib/
 
 https://github.com/MRPT/mrpt
+
+
 
 Release of MRPT 1.5.7 https://github.com/MRPT/mrpt/releases
 
