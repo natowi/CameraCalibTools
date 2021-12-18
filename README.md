@@ -3,6 +3,8 @@ List of Camera Calibration Tools and patterns
 
 https://www.researchgate.net/post/Which_pattern_circle_pattern_or_checkerboard_pattern_should_be_used_for_automotive_camera_calibration_fisheye_wide_webcam
 
+Calibration Best Practices: https://calib.io/blogs/knowledge-base/calibration-best-practices
+
 # Calib [Win]
 
 The software is using a printed page calibration sheet and the user has to select the surrounding region of a rectangular area of circle reference points” grid to perform the calibration.
