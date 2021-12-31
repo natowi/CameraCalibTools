@@ -40,7 +40,7 @@ http://graphics.cs.msu.ru/sites/default/files/download/CalibrationToolbox_Code_0
 
 # Camera Calibration Tools
 
-The application is largely inspired by the Matlab Camera Calibration Toolbox http://www.vision.caltech.edu/bouguetj/calib_doc/ and it provides similar functionality in a stand alone application. Additional features include support for video devices and files. New functionalies such as automatic calibration object detection, hand-eye calibration, camera network calibration and self-calibration are in development for future releases. 
+The application is largely inspired by the Matlab Camera Calibration Toolbox http://www.vision.caltech.edu/bouguetj/calib_doc/ and it provides similar functionality in a stand alone application. Additional features include support for video devices and files. New functionalities such as automatic calibration object detection, hand-eye calibration, camera network calibration and self-calibration are in development for future releases. 
 
 http://www0.cs.ucl.ac.uk/staff/Dan.Stoyanov/calib/main.html
 
