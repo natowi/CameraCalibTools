@@ -177,3 +177,7 @@ http://www.iuav.it/SISTEMA-DE/Laboratori2/cosa-offri/software/index.htm
 # Automatic videocamera calibration from video stream (v.0.1.1)
 
 https://photogrammetric-vision.weebly.com/software.html Download needs to be requested
+
+
+--
+https://repositorio.iscte-iul.pt/bitstream/10071/17586/1/master_francisco_faria_aleixo.pdf
