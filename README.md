@@ -168,6 +168,12 @@ Snapshot: https://web.archive.org/web/20190920090208/http://blogs.auth.gr/tsiouk
 
 https://drive.google.com/uc?id=0B-16pvtHgnIpYkRBMjQxR2JZWlk&export=download
 
+# Calib3v
+È un nuovo software per la calibrazione di fotocamere di grande formato (full frame), ma anche per camere con lenti grandangolari. Il software usa un pannello, che può essere stampato, per la calibrazione e l'utente deve selezionare un'area rettangolare che comprenda i reference points. Dopo aver eseguito la calibrazione, l'utente può caricare tutte le immagini prese dalla stessa macchina fotografica con le stesse impostazioni ed eliminare la distorsione.
+
+Inoltre il software può utilizzare sequenze video per riprendere la pagina di calibrazione e avviare il processo; quando tutti i parametri di calibrazione sono stati calcolati, a tutti i video girati con i sensori calibrati può essere tolta la distorsione.
+http://www.iuav.it/SISTEMA-DE/Laboratori2/cosa-offri/software/index.htm
+
 # Automatic videocamera calibration from video stream (v.0.1.1)
 
 https://photogrammetric-vision.weebly.com/software.html Download needs to be requested
