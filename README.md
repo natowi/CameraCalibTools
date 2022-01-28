@@ -181,3 +181,7 @@ https://photogrammetric-vision.weebly.com/software.html Download needs to be req
 
 --
 https://repositorio.iscte-iul.pt/bitstream/10071/17586/1/master_francisco_faria_aleixo.pdf
+
+# MC-Calib
+
+MC-Calib is dedicated to the calibration (intrinsics and extrinsics) of complex synchronized multi-camera (perspective, fisheye, hybrid) systems using an arbitrary number of fiducial marker-based patterns. This method is not constrained by the number of cameras, their overlapping field-of-view (can handle overlapping, non-overlapping, converging configurations), or the number of calibration patterns used. Moreover, neither prior information about the camera system nor the positions of the checkerboards are required. As a result, minimal user interaction is needed to achieve an accurate and robust calibration which makes this toolbox accessible even with limited computer vision expertise. Project page: https://github.com/rameau-fr/MC-Calib
