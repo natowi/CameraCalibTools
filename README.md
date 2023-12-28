@@ -56,6 +56,11 @@ Pyxy3d (pixie-3d) is a python package that integrates multicamera calibration, 2
 
 It is GUI-based, permissively licensed under the LGPLv3, and intended to serve as the processing hub of a low-cost DIY motion capture studio.
 
+Pyxy3d allows for charuco board creation, as wells as intrinsic and extrinsic calibration of cameras via pre-recorded footage. Visual feedback is provided throughout the process via a Qt GUI.
+
+It integrates with 2D landmark tracking to also calculate estimated 3D landmark position. 
+Example trackers implement various flavors of Google's Mediapipe, though each one is built on a Tracker abstract base class to enable slotting various tracking tools into the workflow.
+
 https://github.com/mprib/pyxy3d
 
 
