@@ -50,6 +50,16 @@ http://www0.cs.ucl.ac.uk/staff/Dan.Stoyanov/calib/download.html
 This repository contains code that implements video reconstruction from event data for calibration
 https://github.com/uzh-rpg/e2calib
 
+# Pyxy3d (pixie-3d)
+
+Pyxy3d (pixie-3d) is a python package that integrates multicamera calibration, 2D (x,y) landmark tracking and 3D landmark triangulation.
+
+It is GUI-based, permissively licensed under the LGPLv3, and intended to serve as the processing hub of a low-cost DIY motion capture studio.
+
+https://github.com/mprib/pyxy3d
+
+
+
 #  OCamCalib: Omnidirectional Camera Calibration Toolbox for Matlab 
 
 The OcamCalib Toolbox for Matlab allows the user (also inexpert users) to calibrate any central omnidirectional camera, that is, any panoramic camera having a single effective viewpoint
