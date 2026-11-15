@@ -156,6 +156,10 @@ https://eleif.net/checker.html
 Checkerboard generator for camera calibration and saving to pdf.
 https://github.com/ProximaB/Camera-Calibration-Pattern-Generator
 
+# Calib.Tools pattern generators (web)
+Checkerboard, ChArUco, AprilGrid, AprilTag, ArUco and circle grid generators in the browser. Vector PDF/SVG at 1:1 scale with a 100 mm scale bar, A4/Letter tiling, free for commercial use.
+https://calib.tools/tools/generator/
+
 # Chessboard A4
 https://github.com/artoolkit/artoolkit5/blob/master/doc/patterns/Calibration%20chessboard%20(A4).pdf
 
